@@ -1,0 +1,14 @@
+This program adds numbers received from a user to a numerical variable in loop until the user puts in a negative number.
+
+Initiate numeric variable ‘sum’ with value 0
+declare variable x 
+
+function RunningSum(){
+	assign ‘x’ value received from user
+	If x>0
+		then sum =+ x
+	else
+		then print sum
+}
+
+

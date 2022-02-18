@@ -1,0 +1,25 @@
+This program sorts three numbers taken from a user in ascending order.
+
+Function NumberSorter(){
+	Declare three numerical variables x,y,z
+	Prompt the user to input values they want to be sorted
+	
+If (x < y & x < z)   
+      if(y < z) 
+         print x,y,z
+      else                         
+         print x,z,y
+else if (y <= x & y<= z) 
+      if(x <= z)             
+         print  y x, z
+      else                        
+         print  y, z, x      
+else                           
+      if(x <= y)             
+         print   z, x, y
+      else                        
+         print  z, y, x
+}
+
+
+

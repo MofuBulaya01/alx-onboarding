@@ -1,0 +1,18 @@
+This program calculates the sum of squares of given input numbers. How many numbers will be calculated is not known or predefined.
+
+function SquaresSum(numbersArray[]) {	
+declare an array variable ‘numbers[]’ and assign the values received from userInput[]
+
+	initiate a variable ‘sum’ with value 0
+
+	for each value in the numbers array value
+
+		sum =+ numbers[index] ^ 2
+
+print the value of ‘sum’	
+}
+
+
+
+
+
