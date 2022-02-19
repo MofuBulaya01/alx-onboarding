@@ -12,7 +12,3 @@ declare an array variable ‘numbers[]’ and assign the values received from us
 print the value of ‘sum’	
 }
 
-
-
-
-
